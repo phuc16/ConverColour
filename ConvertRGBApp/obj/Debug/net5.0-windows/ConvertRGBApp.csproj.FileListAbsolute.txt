@@ -1,0 +1,78 @@
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.exe
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.deps.json
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.runtimeconfig.json
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.runtimeconfig.dev.json
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.dll
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\bin\Debug\net5.0-windows\ref\ConvertRGBApp.dll
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.pdb
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.csprojAssemblyReference.cache
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\App.g.cs
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp_MarkupCompile.cache
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp_MarkupCompile.lref
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\MainWindow.baml
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.g.resources
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.AssemblyInfoInputs.cache
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.AssemblyInfo.cs
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.csproj.CoreCompileInputs.cache
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.dll
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ref\ConvertRGBApp.dll
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.pdb
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.genruntimeconfig.cache
+F:\CSE\HK202\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.exe
+F:\CSE\HK202\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.dll.config
+F:\CSE\HK202\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.deps.json
+F:\CSE\HK202\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.runtimeconfig.json
+F:\CSE\HK202\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.runtimeconfig.dev.json
+F:\CSE\HK202\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.dll
+F:\CSE\HK202\ConvertRGBApp\bin\Debug\net5.0-windows\ref\ConvertRGBApp.dll
+F:\CSE\HK202\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.pdb
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.csprojAssemblyReference.cache
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.dll.config
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\App.g.cs
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp_MarkupCompile.cache
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp_MarkupCompile.lref
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\MainWindow.baml
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.g.resources
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.Properties.Resources.resources
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.csproj.GenerateResource.cache
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.AssemblyInfoInputs.cache
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.AssemblyInfo.cs
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.csproj.CoreCompileInputs.cache
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.dll
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ref\ConvertRGBApp.dll
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.pdb
+F:\CSE\HK202\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.genruntimeconfig.cache
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.dll.config
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.dll.config
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.Properties.Resources.resources
+E:\CSE\Tài liệu Bách Khoa\202\Advanced Programming\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.exe
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.dll.config
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.deps.json
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.runtimeconfig.json
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.runtimeconfig.dev.json
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.dll
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\bin\Debug\net5.0-windows\ref\ConvertRGBApp.dll
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\bin\Debug\net5.0-windows\ConvertRGBApp.pdb
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.dll.config
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp_MarkupCompile.cache
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp_MarkupCompile.lref
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.g.resources
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.Properties.Resources.resources
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.dll
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ref\ConvertRGBApp.dll
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.pdb
+C:\Users\admin\Desktop\PANTT-ObserverPattern\PANTT-ObserverPattern\ConvertRGBApp\obj\Debug\net5.0-windows\ConvertRGBApp.genruntimeconfig.cache
